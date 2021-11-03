@@ -1,0 +1,19 @@
+@font-face {
+  font-family: myFont;
+  src: url(F25_Bank_Printer.ttf);
+}
+
+ body {
+   font-family: myFont;
+   background-color: grey;
+   color: black;
+  } 
+
+h1,h2 {
+  font-family: myFont;
+}
+
+a { 
+  color: white;
+  text-decoration: underline;
+}
